@@ -1,4 +1,4 @@
-#VALORANT XP BOT
+# VALORANT XP BOT
 
 This is basically a simple mod which will play the game in your presence and help you gain XP fast in your lost time So you can play later with good skins. </br> <br>
 
@@ -12,19 +12,19 @@ This mod is made for people who want to boost their XP while they are away and l
 
 You can also use this bot on Cloud Computers (Google Cloud, AWS, etc) </br><br>
 
-##Features
+## Features
 **Auto Reply:** Send messages automatically after a period of time.<br></br>
 **Anti AFK:** Will keep your player on the move<br></br>
 **Auto Match Queue:** Starts a new match when old is over.<br></br>
 **Auto Character:** Select an unchosen character.<br></br>
 
-##Instructions
+## Instructions
 1. Run the exe file. 
 2. Then Open Valorant 
 3. Set the game to windowed fullscreen.
 4. Press INSERT Key to open Menu.
 
-##Status 
+## Status 
 Undetected [Yet, it is safer to try on alt account]
 
 
