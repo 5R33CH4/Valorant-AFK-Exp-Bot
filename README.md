@@ -27,4 +27,6 @@ You can also use this bot on Cloud Computers (Google Cloud, AWS, etc) </br><br>
 ## Status 
 Undetected [Yet, it is safer to try on alt account]
 
+## Credit
+BraBra1262
 
